@@ -78,7 +78,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-20
-    date_end: 2024-09-31
+    date_end: 2024-09-30
     summary: |
       - Worked on combining observational and experimental data to improve causal effect estimation
 
