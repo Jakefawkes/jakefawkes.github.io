@@ -48,7 +48,7 @@ education:
     institution: University of Oxford
     date_start: 2020-10-01
     date_end: 
-    summary: 
+    summary: |
       Research at the intersection of machine learning and causal inference with three main strands , machine learning to estimate and test for causal effects,causality for algorithmic fairness, and understanding the mathematical structure of causal inference.
     #button:
      # text: 'Read Thesis'
@@ -59,9 +59,7 @@ education:
     date_start: 2016-10-01
     date_end: 2020-07-01
     summary: |
-      First class degree
-
-      - Focused on pure mathematics courses in Algebra, Functional Analysis and Combinatorics for the Bachelors section of the course before switching to a mix of statistics machine learning and pure mathematics in the masters year.
+      First class degree.
 
 work:
   - position: Research Science Intern
@@ -70,7 +68,7 @@ work:
     company_logo: ''
     date_start: 2025-03-31
     date_end: ''
-    summary: |2-
+    summary: |
       - Working on applying causal representation learning to improve modelling of single cell data. 
 
   - position: Research Science Intern
@@ -89,7 +87,7 @@ work:
     company_logo: ''
     date_start: 2022-10-03
     date_end: 2023-04-03
-    summary: |2-
+    summary: |
       - Focused on the application of Responsible AI in healthcare.
 
 
