@@ -2,17 +2,13 @@
 # Display name
 title: Jake Fawkes
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+
+
 
 # Full name (for SEO)
 first_name: Jake
 last_name: Fawkes
-
-# Status emoji
-#status:
-  #icon: ☕️
-
+]
 # Is this the primary user of the site?
 superuser: true
 
@@ -106,3 +102,5 @@ Outside of my PhD I have a strong interest in the following areas:
 - Mechanistic Interpretability and Causal Abstraction
 - Experimental Design
 - Causal Representation Learning
+
+---
